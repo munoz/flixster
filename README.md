@@ -21,9 +21,9 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ITUBRVd"  ><a href="//imgur.com/a/ITUBRVd">flixster</a></blockquote>
 
-GIF created with [Kap](https://getkap.co/).
+![](https://recordit.co/iOkeIObUvM.gif) 
+
 
 ### Notes
 I got a message that the af_setImage was depricated and tried to use the suggestion but it leads to another error. I was able to continue with af_setImage but was able to add the force-unwrap option to add an exclamation point. 
